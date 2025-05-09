@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google/genai": "^0.13.0",
+    "moment-timezone": "^0.5.45",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": ""
+  }
+}
